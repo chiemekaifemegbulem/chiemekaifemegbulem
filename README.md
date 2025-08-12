@@ -2,7 +2,8 @@
 Hi, I'm **Chiemeka**  
 
 ### 🚀 Fun Facts:
-- 💻 I love coding in **Python**  
+- 💻 I love coding in **Python**
+-  ⚡ Expert in **Make.com automation** for streamlining workflows and boosting efficiency
 - 🤝 Looking forward to collaborating on **Python projects**  
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**  
 - 🧠 Strong problem-solving abilities  
